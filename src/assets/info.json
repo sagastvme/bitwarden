@@ -1,0 +1,68 @@
+{
+  "information": [
+    {
+      "customName": "Google Login",
+      "email": "@example.com",
+      "password": "s3cr3tp@ssw0rd"
+    },
+    {
+      "customName": "Facebook Login",
+      "email": "alice.smith@example.com",
+      "password": "P@$$w0rd123"
+    },
+    {
+      "customName": "Twitter Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "LinkedIn Login",
+      "email": "emily.brown@example.com",
+      "password": "SecureP@ss123"
+    },
+    {
+      "customName": "Instagram Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "GitHub Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "Netflix Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "Amazon Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "Microsoft Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "Apple Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "WhatsApp Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    },
+    {
+      "customName": "Snapchat Login",
+      "email": "bob.johnson@example.com",
+      "password": "StrongP@ssw0rd!"
+    }
+  ],
+  "loginInfo": {
+    "username": "customer@mail.com",
+    "password": "123"
+  }
+}
